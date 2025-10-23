@@ -1,7 +1,13 @@
 # Employee Churn Prediction Using Machine Learning
 
-This project uses Python to do preprocessing for analyzing HR datasets and predicting employee churn.  
-It built and compared models like Random Forest, XGBoost, Logistic Regression, and SVM by achieving up to 85% accuracy.  
+This project applies Python to analyze HR datasets and predict employee churn.
+It includes two main components:
+
+1. Preprocessing & Model Training 
+Performs data cleaning, preprocessing and model comparison using Random Forest, XGBoost, Logistic Regression, and SVM with best model (XG Boost) achieves up to 85% accuracy.
+
+2. HR Analytics System (HR_Analytics_System.py)
+A predictive dashboard and interface built with Streamlit by using the best-performing model to visualize churn risk and provide workforce performance insights.
 
 ---
 
