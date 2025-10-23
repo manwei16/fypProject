@@ -3,7 +3,7 @@
 This project applies Python to analyze HR datasets and predict employee churn.
 It includes two main components:
 
-1. Preprocessing & Model Training 
+1. Preprocessing & Model Training (preprocessing.ipynb)
 Performs data cleaning, preprocessing and model comparison using Random Forest, XGBoost, Logistic Regression, and SVM with best model (XG Boost) achieves up to 85% accuracy.
 
 2. HR Analytics System (HR_Analytics_System.py)
